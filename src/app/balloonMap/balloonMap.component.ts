@@ -7,8 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BalloonMapComponent implements OnInit {
 
-  googleApiKey = "AIzaSyBB5up-iVS8VU95FbiPpyTRPLjH-QejfNc";
-
   inputLat : number = 0;
   inputLng : number = 0;
 
